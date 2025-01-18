@@ -12,5 +12,5 @@
 各レシピの材料から米・醤油・みりん・だし・米酢・料理酒・ソース・うどん・そうめん・ごま油などの購入が可能となるECサイトも併設（但し当ECサイトはデモに留めた。その理由は8ページに後述）また、この旨はレシピが表示される画面上に” Seasonings and dried noodles can be purchased from the respective links in the ingredients section, which are made in Japan by Meg Co.,ltd.” (調味料、乾麺などは材料欄リンクから、日本製のものであるメグ社製のものが購入可能）と明記
 
 お気に入りボタンを押すと、♡マークが💕に変わりお気に入りレシピを一目で確認することが可能。また、もう一度💕を押すと♡マークに戻り、お気に入りが解除される
-![image](https://github.com/user-attachments/assets/ef793d4f-f871-41e7-8c52-61213a9e0c30)
+
 
